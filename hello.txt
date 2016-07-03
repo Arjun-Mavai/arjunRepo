@@ -2,4 +2,4 @@ it is my first file i've just created in the fourth commit
 I'm really enjoying git ,
  git hub is such a fantastic place 
   when i am on this platform I forgot everything
-  if it's not why do it at all
+  if it's not fun why do it at all
